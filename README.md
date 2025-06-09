@@ -1,4 +1,4 @@
-# Audio Classification Solution - 1st Place (Private F1: 0.89353)
+# [Audio Classification Solution](https://www.kaggle.com/competitions/itmo-acoustic-event-detectin-2025) - 1st Place (Private F1: 0.89353)
 
 ## Repository Overview
 
@@ -89,7 +89,7 @@ class Classifier(nn.Module):
 │   └── train_utils.py         # Training utilities
 │
 ├── notebooks/
-│   └── sollutions.ipynb         # Main solution notebook
+│   └── sollutions.ipynb       # Main solution notebook
 │
 ├── submissions/
 │   └── submission.csv         # Final predictions
